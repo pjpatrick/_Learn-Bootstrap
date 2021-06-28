@@ -12,5 +12,19 @@ li{
         text-transform: capitalize;
         font-weight: 600;
     }
+  }
 }
-}
+
+.navbar-brand {
+    width:150px;
+    font-size: 24px;
+    max-height: 10rem;
+  }
+  .navbar-brand img {
+    height: 5rem;
+    /* put value of image height as your need */
+    float: left;
+    margin-right: 1rem;
+  }
+
+
