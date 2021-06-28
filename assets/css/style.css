@@ -10934,7 +10934,7 @@ textarea.form-control-lg {
   height: 100%;
 }
 .companies__logo-box img:hover {
-  filter: grayscale(120);
+  filter: grayscale(121);
 }
 
 .services {
