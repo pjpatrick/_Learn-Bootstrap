@@ -64,3 +64,46 @@
         }
     }
 }
+
+//STYLE THE COMPANY INFO
+.company-list {
+    display: block;
+    list-style-type: none;
+    position: relative;
+    
+    li {
+        margin-bottom: 0.5rem;
+        text-decoration: none;
+
+        a {
+            color: $white;
+            text-decoration: none;
+
+            &:hover {
+                color: $primary;
+
+            }
+
+        }
+    }
+}
+
+//STYLE THE COPYRIGHT FOOTER
+.footer-bottom {
+    background-color: $black;
+
+    &__copyright {
+        color: $gray-600;
+        font-weight: 400;
+
+        a {
+            color: $gray-300;
+            text-decoration: none;
+
+            &:hover {
+                color: $primary;
+                text-decoration: underline;
+            }
+        }
+    }
+}
