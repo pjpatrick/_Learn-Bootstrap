@@ -10870,6 +10870,7 @@ textarea.form-control-lg {
   color: #684911 !important;
   text-transform: capitalize;
   font-weight: 600;
+  font-size: 1.2rem;
 }
 
 .navbar-brand {
@@ -10972,7 +10973,7 @@ textarea.form-control-lg {
 
 .testimonial {
   position: relative;
-  padding: 0;
+  padding: 0rem;
   background: linear-gradient(to right, rgba(253, 126, 20, 0.95), rgba(13, 202, 240, 0.95));
 }
 .testimonial__card {
